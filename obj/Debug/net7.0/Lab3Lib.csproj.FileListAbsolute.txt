@@ -10,3 +10,15 @@ C:\Users\brend\Repos\cs11dotnet7\vscode\Chapter04\Lab3Lib\obj\Debug\net7.0\Lab3L
 C:\Users\brend\Repos\cs11dotnet7\vscode\Chapter04\Lab3Lib\obj\Debug\net7.0\refint\Lab3Lib.dll
 C:\Users\brend\Repos\cs11dotnet7\vscode\Chapter04\Lab3Lib\obj\Debug\net7.0\Lab3Lib.pdb
 C:\Users\brend\Repos\cs11dotnet7\vscode\Chapter04\Lab3Lib\obj\Debug\net7.0\ref\Lab3Lib.dll
+C:\Users\brend\Repos\CPS3330-Lab3\Lab3Lib\bin\Debug\net7.0\Lab3Lib.deps.json
+C:\Users\brend\Repos\CPS3330-Lab3\Lab3Lib\bin\Debug\net7.0\Lab3Lib.dll
+C:\Users\brend\Repos\CPS3330-Lab3\Lab3Lib\bin\Debug\net7.0\Lab3Lib.pdb
+C:\Users\brend\Repos\CPS3330-Lab3\Lab3Lib\obj\Debug\net7.0\Lab3Lib.csproj.AssemblyReference.cache
+C:\Users\brend\Repos\CPS3330-Lab3\Lab3Lib\obj\Debug\net7.0\Lab3Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\Repos\CPS3330-Lab3\Lab3Lib\obj\Debug\net7.0\Lab3Lib.AssemblyInfoInputs.cache
+C:\Users\brend\Repos\CPS3330-Lab3\Lab3Lib\obj\Debug\net7.0\Lab3Lib.AssemblyInfo.cs
+C:\Users\brend\Repos\CPS3330-Lab3\Lab3Lib\obj\Debug\net7.0\Lab3Lib.csproj.CoreCompileInputs.cache
+C:\Users\brend\Repos\CPS3330-Lab3\Lab3Lib\obj\Debug\net7.0\Lab3Lib.dll
+C:\Users\brend\Repos\CPS3330-Lab3\Lab3Lib\obj\Debug\net7.0\refint\Lab3Lib.dll
+C:\Users\brend\Repos\CPS3330-Lab3\Lab3Lib\obj\Debug\net7.0\Lab3Lib.pdb
+C:\Users\brend\Repos\CPS3330-Lab3\Lab3Lib\obj\Debug\net7.0\ref\Lab3Lib.dll

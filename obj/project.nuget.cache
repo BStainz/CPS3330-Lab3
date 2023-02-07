@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/QCY/j04hZT6acRK6VLICGVp6uP8LhRjIE1RQhwGDYQq6gF1vpi6y/3QjNB7Tex8dq9hASv/k+YtojjnMb/Otw==",
+  "dgSpecHash": "BGcUIcamvpbbb4ZcmMi/0LMmMlHNWERTDNXAdD9SvrTD2VpNwTUuTlEJV82suIv64CkoQKhh5V2sl3Lex47dwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brend\\Repos\\cs11dotnet7\\vscode\\Chapter04\\Lab3Lib\\Lab3Lib.csproj",
+  "projectFilePath": "C:\\Users\\brend\\Repos\\CPS3330-Lab3\\Lab3Lib\\Lab3Lib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
